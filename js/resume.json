@@ -1,0 +1,34 @@
+{ "bio" : {
+		"name" : "Danijel Rahija",
+		"role" : "Test Consultant",
+		"contacts" : {
+			"mobile" : "07947234699",
+			"email" : "danijelr@gmail.com",
+			"googleplus" : "", 
+			"github" : "pleaides",
+			"location" : "London"
+			},
+		"welcomeMessage" : "Welcome to my JS CV, here you will find some of my previous project experience and hopefully convince you that i can help get your project live and looking good. I am an experienced Manual/Automated tester in the Media, Telecommunications, Sports and Shipping Industries. I can get your Automated test suite returning value and your weekly deployments live with confidence.",
+		"skills" : ["Web","Apps","Cucumber", "BDD", "Kanban", "Scrum", "Ruby","PHP/Behat","JS", "Networking", "Linux"],
+		"bioPic" : "images/DAN4.jpg"
+		},
+"work" : {
+		"jobs": [{
+			"employer": "my employer", 
+        	"title": "my title", 
+        	"location": "my location", 
+        	"dates": "work date",
+        	"description": "work description" 
+    	}]
+	},
+"education" : {
+		"schools": [{
+    	  "name": "edu name",
+       	  "location": "edu location",
+       	  "degree": "edu degree",
+       	  "majors": [""],
+       	  "dates": "edu dates ",
+       	  "url": "edu url"
+    	}]
+	}
+}
