@@ -129,7 +129,9 @@ var education = {
        	  "location": "Sydney",
        	  "degree": "BEE(ISE) / BSC",
        	  "majors": [""],
-       	  "description": "Completed Degree in Electrical Engineering (Information Systems Engineering) with 2nd Class Honors Division 1. Obtained Degree in Computer Science in 1993. Final Year Computer Science major team projects were done in C++ on a Unix platform.",
+       	  "description": "Completed Degree in Electrical Engineering (Information Systems Engineering) with 2nd Class Honors Division 1. \
+       	  Obtained Degree in Computer Science in 1993. \
+       	  Final Year Computer Science major team projects were done in C++ on a Unix platform.",
        	  "dates": "1991 – 1995",
        	  "url": "http://sydney.edu.au/"
     	}
@@ -153,4 +155,6 @@ $("#education").append(HTMLschoolLocation.replace("%data%",education.schools.loc
 $("#education").append(HTMLschoolDescription.replace("%data%",education.schools.description));
 
 $("#mapDiv").append(googleMap);
+var travellocations = ["Argentina","Chile","Peru","Canada","USA","Australia","New Zealand","South Korea","Malaysia","Thailand","Cambodia","Morocco","Tunisia","Nepal","India","Iceland","Portugal","Croatia"];
+//$("#travelDiv").append(googletravelMap);
 
