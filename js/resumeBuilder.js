@@ -7,8 +7,8 @@ var bio = {
 			"github" : "pleaides",
 			"location" : "London"
 			},
-		"welcomeMessage" : "Welcome to my JS CV, here you will find some of my previous project experience and hopefully convince you that I can help get your project live and looking good. I am an experienced Manual/Automated tester in the Media, Telecommunications, Sports and Shipping Industries. I can get your Automated test suite returning value and your weekly deployments live with confidence.",
-		"skills" : "Web, Apps, Cucumber, BDD, Kanban, Scrum, Ruby, PHP/Behat, JS, Networking, Linux",
+		"welcomeMessage" : "Welcome to my JS CV. I am an experienced Manual/Automated tester in the Media, Telecommunications, Sports and Shipping Industries. I can get your Automated test suite returning value and your weekly deployments live with confidence.",
+		"skills" : "Web, Apps, , Mobile, Cucumber, BDD, Kanban, Scrum, Ruby, PHP/Behat, JS, Networking, Linux",
 		"bioPic" : "images/DAN4.jpg"
 };
 
